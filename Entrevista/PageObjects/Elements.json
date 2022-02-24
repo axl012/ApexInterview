@@ -1,0 +1,284 @@
+{
+  "txtmainSearchbar": {
+    "Id": "mainSearchbar",
+    "Name": "",
+    "TagName": "",
+    "Type": "",
+    "ClassName": "form-control search-bar plp-no__results",
+    "InnnerText": "",
+    "XPath": "//*[@id='mainSearchbar']"
+  },
+  "loMasBuscadoTitle": {
+    "Id": "",
+    "TagName": "P",
+    "ClassName": "a-typeahead-title",
+    "InnnerText": "Lo más buscado",
+    "XPath": "//*[@id='__next']/header[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/p[1]"
+  },
+
+  "seccionProductosBuscados": {
+    "Id": "",
+    "TagName": "DIV",
+    "ClassName": "col-lg-8 col-12 d-none d-lg-block",
+    "InnnerText": "Lo más buscado\n\nConsola Nintendo Switch OLED de 64 GB\n\nnew super mario bros u deluxe edición estándar para nintendo switch juego físico\n\ncontrol alámbrico para nintendo switch super mario bros\n\nMica para Nintendo Switch OLED Bionik\n\nSet de Funda para Nintendo Switch Oled Ecoshopmaster\n\nSet 2 Micas de Cristal Templado para Nintendo Switch OLED Ecoshopmaster",
+    "XPath": "//*[@id='__next']/header[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[2]"
+  },
+  "BrandSearch": {
+    "Id": "",
+    "TagName": "H5",
+    "ClassName": "undefined",
+    "InnnerText": "Buscar en Marcas",
+    "XPath": "//*[@id='__next']/header[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]"
+  },
+
+  "CatalogueSection": {
+    "Id": "",
+    "TagName": "DIV",
+    "ClassName": "col-12 p-2 p-lg-1",
+    "InnnerText": "Consola Nintendo Switch OLED de 64 GB\n\n$13,99900\n\n$11,89900\n\n(1)\nNew Super Mario Bros U Deluxe Edición Estándar para Nintendo Switch Juego Físico\n\n$1,74900\n\n$1,69900\n\n(1)\nMica para Nintendo Switch OLED Bionik\n\n$32900\n\n(4)\nSet de Funda para Nintendo Switch Oled Ecoshopmaster\n\n$35000\n\n(6)\nControl Alámbrico para Nintendo Switch Super Mario Bros\n\n$79900\n\n(5)\nSet 2 Micas de Cristal Templado para Nintendo Switch OLED Ecoshopmaster\n\n$28900\n\n(1)",
+    "XPath": "//*[@id='__next']/div[1]/div[1]/div[1]/div[4]/main[1]/div[2]/div[1]"
+  },
+  "btnSearch": {
+    "Id": "",
+    "Name": "",
+    "TagName": "BUTTON",
+    "Type": "submit",
+    "ClassName": "input-group-text",
+    "InnnerText": "",
+    "XPath": "//*[@class='input-group-text']"
+  },
+  "lblNoResults": {
+    "Id": "",
+    "TagName": "H1",
+    "ClassName": "a-headline__results d-none d-lg-block",
+    "InnnerText": "Tu Búsqueda \"tsuru volante azul 2009\" arrojó \"0\" resultados",
+    "XPath": "//*[@id='__next']/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]"
+  },
+  "btnFirstItem": {
+    "Id": "",
+    "TagName": "UL",
+    "Type": "",
+    "ClassName": "m-product__listingPlp",
+    "InnnerText": "Control para cualquier pantalla Sony Bravia Smart Tv\n\n$98900\n\n$43900\n\n(11)\nPantalla TCL LED Smart TV de 42 Pulgadas Full HD 42A342 con Android TV\n\n$12,99900\n\n$6,99900\n\n(90)\nPantalla Samsung LED Smart TV de 50 Pulgadas 4K UN50AU8000FXZX\n\n$19,99900\n\n$12,85575\n\n(82)\nPantalla LG UHD Smart TV de 50 pulgadas AI ThinQ 4K 50UP7500PSF\n\n$19,99900\n\n$11,78465\n\n(32)\nPantalla TCL LED Smart TV de 32 Pulgadas HD 32A345 con Android TV\n\n$9,49900\n\n$4,79900\n\n(50)\nPantalla Samsung LED Smart TV de 43 Pulgadas 4K UN43AU8000FXZX\n\n$15,79900\n\n$10,71300\n\n(50)\nControl cualquier pantalla Samsung Smart Tv Curve 4k\n\n$1,01900\n\n$46900\n\n(17)\nPantalla 40 pulgadas Hisense FHD Smart TV 40H5G\n\n$8,79900\n\n$7,25000\n\n(14)\nPantalla LG NanoCell Smart TV 55 Pulgadas 4K 55NANO80SPA\n\n$30,99900\n\n$16,07036\n\n(28)\nPantalla Samsung LED Smart TV de 55 Pulgadas 4K UN55AU8000FXZX\n\n$21,49900\n\n$13,92750\n\n(51)\nPantalla TCL LED Smart TV de 55 Pulgadas 4K/UHD 55A445 con Android TV\n\n$21,49900\n\n$9,99900\n\n(16)\nPantalla LG LED Smart TV de 24 pulgadas Modelo 24TL520S-PU.AWM\n\n$6,59900\n\n$4,94925\n\n(56)\nPantalla LG OLED Smart TV de 48 Pulgadas 4K/Dolby Atmos OLED48C1PSA\n\n$41,99900\n\n$21,42750\n\n(65)\nPantalla LG OLED Smart TV de 55 pulgadas 4K/Dolby Atmos OLED55C1PSA\n\n$69,99900\n\n$27,85607\n\n(73)\nPantalla Samsung LED Smart TV de 75 Pulgadas 4K UN75AU8000FXZX\n\n$38,59900\n\n$27,85575\n\nRegalo\n(49)\nControl Remoto para cualquier pantalla LG Smart Tv\n\n$98900\n\n$43900\n\n(11)\nPantalla LG UHD Smart TV de 55 pulgadas AI ThinQ 4K 55UP8050PSB\n\n$24,99900\n\n$14,99893\n\n(18)\nControl remoto Universal para pantalla Samsung Smart TV Netflix\n\n$98900\n\n$43900\n\n(1)\nPantalla Samsung LED Smart TV de 65 Pulgadas 4K UN65AU8000FXZX\n\n$27,19900\n\n$19,28475\n\n(5)\nPantalla Hisense Uled Smart TV de 55 Pulgadas QHD 55U8G con Android TV\n\n$44,79900\n\n$19,51952\n\n(11)\nPantalla Samsung Crystal UHD Smart TV de 65 Pulgadas 4K UN65AU7000FXZX\n\n$24,28900\n\n$18,21300\n\nRegalo\n(24)\nPantalla LG NanoCell Smart TV de 43 Pulgadas 4K/Ultra HD 43NANO75SPA\n\n$18,99900\n\n$11,78465\n\n(40)\nControl remoto Universal para pantalla Samsung Smart TV Bn59-01260a Bn59-01265a\n\n$1,01900\n\n$46900\n\n(7)\nPantalla LG LED UHD Smart TV de 86 Pulgadas AI ThinQ 4K 86UP8050PSB\n\n$99,99900\n\n$37,49893\n\n(22)\nPantalla LG Led UHD Smart TV de 70 pulgadas AI ThinQ 4K 70UP7750PSB\n\n$36,99900\n\n$21,42750\n\nRegalo\n(36)\nPantalla TCL LED Smart TV de 50 Pulgadas 4K/Ultra HD con Android TV\n\n$18,99900\n\n$8,99900\n\n(9)\nPantalla Sony LCD Smart TV de 43 pulgadas Modelo KD-43X80J con Google TV\n\n$23,09900\n\n$13,99930\n\n(11)\nPantalla Samsung BE32T-B 32 HD Smart TV HDMI LH32BETBLGKXZX\n\n$10,19900\n\n$7,19900\n\n(13)\nPantalla LG LED UHD Smart TV de 50 Pulgadas AI ThinQ 4K 50UP8050PSB\n\n$21,99900\n\n$12,85607\n\n(42)\nPantalla LG UHD Smart TV de 65 Pulgadas AI ThinQ 4K 65UP8050PSB\n\n$34,99900\n\n$19,28465\n\n(14)\nPantalla TCL LED Smart TV de 50 pulgadas 4K/Ultra HD 50A547 con Android TV\n\n$19,99900\n\n$9,79900\n\n(4)\nPantalla LG LCD smart TV de 55 pulgadas 55UN6955ZUF\n\n$20,19900\n\n$14,29900\n\n(1)\nPantalla LG NanoCell Smart TV de 50 Pulgadas 4K 50NANO80SPA\n\n$24,99900\n\n$14,99893\n\n(32)\nControl para Pantalla Samsung Smart TV Bn59-01266a Bn59-01241a Universal\n\n$1,01900\n\n$46900\n\n(3)\nPantalla Hisense LED Smart TV de 40 Pulgadas Full HD 40H5G\n\n$10,57000\n\n$7,49900\n\n(50)\nPantalla Hisense LED Smart TV de 55 pulgadas 4K/Ultra HD Modelo 55A6G\n\n$23,49900\n\n$11,81404\n\n(36)\nPantalla LG UHD Smart TV de 60 pulgadas AI ThinQ 4K 60UP8050PSB\n\n$27,99900\n\n$16,07036\n\n(14)\nPantalla Samsung Crystal UHD Smart TV de 85 Pulgadas 4K UN85AU8000FXZX\n\n$67,14900\n\n$38,57025\n\n(10)\nControl Remoto para Sharp Aquos Smart Tv 6b118wj Ga841wjsa Universal\n\n$98900\n\n$43900\n\n(1)\nPantalla TCL LED Smart TV de 75 Pulgadas 4K UHD 75S431 con Roku TV\n\n$23,99000\n\n$19,99000\n\nPantalla LG QNED Smart TV de 65 pulgadas 4k / Dolby Atmos 65QNED90SPA\n\n$99,99900\n\n$37,49893\n\n(1)\nPantalla Samsung LED Smart TV de 32 Pulgadas HD UN32T4310AFXZX\n\n$7,99900\n\n$5,99925\n\n(17)\nPantalla TCL LED Smart TV de 43 Pulgadas 4K/Ultra HD 43A445 con Android TV\n\n$14,99900\n\n$7,99900\n\n(18)\nPantalla LG OLED Smart TV de 65 Pulgadas 4K/Dolby Atmos OLED65C1PSA\n\n$99,99900\n\n$40,71322\n\n(22)\nPantalla Sansui LED Smart TV de 32 Pulgadas HD SMX32P28NF\n\n$7,49900\n\n$5,29900\n\nPantalla LG NanoCell Smart TV de 75 pulgadas AI ThinQ 4K 75NANO80SPA\n\n$79,99900\n\n$35,35607\n\nRegalo\n(5)\nPantalla LG NanoCell Smart TV de 86 Pulgadas Dolby Atmos/HDR Dolby Vision 86NANO90SPA\n\n$129,99900\n\n$48,21322\n\n(5)\nPantalla Hisense LED Smart TV de 40 Pulgadas Full HD 40H5G\n\n$9,79900\n\n$6,98900\n\nPantalla Samsung LED Smart TV de 32 Pulgadas Full HD UN32M4500\n\n$5,99000\n\n$5,49000\n\nPantalla Sony LCD Smart TV de 85 pulgadas 8K Modelo XBR-85Z8H\n\n$329,99900\n\n$159,99900\n\n(2)\nPantalla LG OLED Smart TV de 77 pulgadas 4K/Dolby Atmos OLED77G1PSA\n\n$399,99900\n\n$101,78465\n\n(2)\nPantalla Samsung The Frame QLED Smart TV de 55 Pulgadas 4K F-QN55LS03AAFX\n\n$47,14100\n\n$23,57025\n\n(4)\nFunda para Control Remoto Samsung Smart TV Cobertura Total Universal\n\n$96900\n\n$41900\n\nControl de Voz para Samsung Smart TV 4K + Funda\n\n$1,54900\n\n$99900\n\n(10)\nPantalla TCL QLED Smart TV de 65 Pulgadas Dolby Atmos/HDR Vision 65Q647 con Google TV\n\n$37,99900\n\n$17,49900\n\nPantalla Sansui LED Smart TV de 40 Pulgadas Full HD 2K SMX40P28NF\n\n$8,99900\n\n$8,59900",
+    "XPath": "//*[@id='__next']/div[1]/div[1]/div[1]/div[4]/main[1]/div[2]/div[1]/div[1]/ul[1]"
+  },
+  "btnAddToCart": {
+    "Id": "opc_pdp_addCartButton",
+    "Name": "",
+    "TagName": "BUTTON",
+    "Type": "submit",
+    "ClassName": "a-btn a-btn--tertiary mb-3 ",
+    "InnnerText": "Agregar a mi bolsa",
+    "XPath": "//*[@id='opc_pdp_addCartButton']"
+  },
+  "lblSuccessMessage": {
+    "Id": "",
+    "TagName": "DIV",
+    "ClassName": "m-mdc__snackbarLabel mdc-snackbar__label",
+    "InnnerText": "Agregaste un producto a tu bolsa",
+    "XPath": "//*[@id='__next']/div[1]/div[2]/div[1]/div[1]"
+  },
+  "ventana": {
+    "Id": "",
+    "TagName": "",
+    "ClassName": "close",
+    "InnnerText": "",
+    "XPath": "//*[@class='close']"
+  },
+  "lblVerMas": {
+    "Id": "",
+    "TagName": "",
+    "ClassName": "a-link__viewMore",
+    "InnnerText": "",
+    "XPath": "//a[@class = \"a-link__viewMore\"][1]"
+  },
+  "cbSamsung": {
+    "Id": "brand-SAMSUNG",
+    "TagName": "",
+    "ClassName": "",
+    "InnnerText": "",
+    "XPath": ""
+  },
+  "txtMinPrice": {
+    "Id": "min-price-filter",
+    "Name": "",
+    "TagName": "INPUT",
+    "Type": "text",
+    "ClassName": "form-control",
+    "InnnerText": "",
+    "XPath": "//*[@id='min-price-filter']"
+  },
+  "txtMaxPrize": {
+    "Id": "max-price-filter",
+    "Name": "",
+    "TagName": "INPUT",
+    "Type": "text",
+    "ClassName": "form-control",
+    "InnnerText": "",
+    "XPath": "//*[@id='max-price-filter']"
+  },
+  "enterPriceRange": {
+    "Id": "",
+    "TagName": "I",
+    "ClassName": "icon-arrow_right",
+    "InnnerText": "",
+    "XPath": "//*[@id='__next']/div[1]/div[1]/div[1]/div[4]/aside[1]/div[1]/div[1]/div[20]/div[2]/div[2]/div[4]/span[1]/i[1]"
+  },
+  "firstTV": {
+    "Id": "img_0_",
+    "Name": "",
+    "TagName": "IMG",
+    "ClassName": "",
+    "InnnerText": "",
+    "XPath": "//*[@id='img_0_']"
+  },
+  "btnLogin": {
+    "Id": "",
+    "Name": "",
+    "TagName": "",
+    "ClassName": "",
+    "InnnerText": "",
+    "XPath": "//*[@class = 'a-header__topLink']"
+  },
+  "lblLoginTitle": {
+    "Id": "",
+    "TagName": "H1",
+    "ClassName": "cad511219 c35b3c26e",
+    "InnnerText": "Inicia sesión",
+    "XPath": "/html/body/main[1]/section[1]/div[1]/div[1]/header[1]/h1[1]"
+  },
+  "lblCreateUser": {
+    "Id": "",
+    "TagName": "",
+    "ClassName": "cb5196939 c8dcb97d6",
+    "InnnerText": "",
+    "XPath": "//*[@class = 'cb5196939 c8dcb97d6']"
+  },
+  "lblCreateUseritle": {
+    "Id": "",
+    "TagName": "MAIN",
+    "ClassName": "_widget c9ed5a74f",
+    "InnnerText": "Crear cuenta\n\nCorreo electrónico\nCorreo electrónico\nContraseña\nContraseña\nShow Password\nCrear cuenta\n\n¿Ya tienes una cuenta? Inicia sesión\n\nO\nContinuar con Apple\nContinuar con Facebook",
+    "XPath": "/html/body/main[1]"
+  },
+  "lblCreateAccount": {
+    "Id": "",
+    "TagName": "H1",
+    "ClassName": "cad511219 c35b3c26e",
+    "InnnerText": "Crear cuenta",
+    "XPath": "/html/body/main[1]/section[1]/div[1]/div[1]/header[1]/h1[1]"
+  },
+  "txtEmail": {
+    "Id": "email",
+    "Name": "email",
+    "TagName": "INPUT",
+    "Type": "text",
+    "ClassName": "input cdf74ce7b ccc30da37",
+    "InnnerText": "",
+    "XPath": "//*[@id='email']"
+  },
+  "txtPassword": {
+    "Id": "password",
+    "Name": "password",
+    "TagName": "INPUT",
+    "Type": "password",
+    "ClassName": "input cdf74ce7b ccd26e912",
+    "InnnerText": "",
+    "XPath": "//*[@id='password']"
+  },
+  "btnCreateAccount": {
+    "Id": "",
+    "Name": "action",
+    "TagName": "BUTTON",
+    "Type": "submit",
+    "ClassName": "c063cb1a4 c295cd12c c1abb73c2 ca574d24e c106f3e2b",
+    "InnnerText": "Crear cuenta",
+    "XPath": "/html/body/main[1]/section[1]/div[1]/div[1]/div[1]/form[1]/div[2]/button[1]"
+  },
+  "FormTitle": {
+    "Id": "",
+    "TagName": "DIV",
+    "ClassName": "m-title",
+    "InnnerText": "Ingresa los siguientes datos",
+    "XPath": "//*[@id='formCreateAccount']/div[1]"
+  },
+  "txtNombre": {
+    "Id": "input-user__name",
+    "Name": "user_firstName",
+    "TagName": "INPUT",
+    "Type": "text",
+    "ClassName": "mdc-text-field__input a-material__input",
+    "InnnerText": "",
+    "XPath": "//*[@id='input-user__name']"
+  },
+  "txtPaterno": {
+    "Id": "input-user__apaterno",
+    "Name": "user_lastName",
+    "TagName": "INPUT",
+    "Type": "text",
+    "ClassName": "mdc-text-field__input a-material__input",
+    "InnnerText": "",
+    "XPath": "//*[@id='input-user__apaterno']"
+  },
+  "txtMaterno": {
+    "Id": "input-user__amaterno",
+    "Name": "user_MotherName",
+    "TagName": "INPUT",
+    "Type": "text",
+    "ClassName": "mdc-text-field__input a-material__input",
+    "InnnerText": "",
+    "XPath": "//*[@id='input-user__amaterno']"
+  },
+  "btnDay": {
+    "Id": "daySelectorLabel",
+    "Name": "",
+    "TagName": "",
+    "Type": "",
+    "ClassName": "",
+    "InnnerText": "",
+    "XPath": "//*[@id = 'daySelectorLabel']"
+  },
+  "btnMonth": {
+    "Id": "monthSelectorLabel",
+    "Name": "",
+    "TagName": "",
+    "Type": "",
+    "ClassName": "",
+    "InnnerText": "",
+    "XPath": "//*[@id = 'monthSelectorLabel']"
+  },
+  "btnYear": {
+    "Id": "yearSelectorLabel",
+    "Name": "",
+    "TagName": "",
+    "Type": "",
+    "ClassName": "",
+    "InnnerText": "",
+    "XPath": "//*[@id = 'yearSelectorLabel']"
+  },
+  "rdMale": {
+    "Id": "male",
+    "Name": "gender",
+    "TagName": "INPUT",
+    "Type": "radio",
+    "ClassName": "a-radio__input mdc-radio__native-control",
+    "InnnerText": "",
+    "XPath": "//*[@id='male']"
+  },
+  "btnCrear": {
+    "Id": "",
+    "Name": "",
+    "TagName": "BUTTON",
+    "Type": "submit",
+    "ClassName": "a-btn a-btn--primary",
+    "InnnerText": "Crear cuenta",
+    "XPath": "//*[@id='formCreateAccount']/div[11]/button[1]"
+  },
+  "lblCellphoneVerification": {
+    "Id": "",
+    "TagName": "H1",
+    "ClassName": "cad511219 c35b3c26e",
+    "InnnerText": "Verificación de celular",
+    "XPath": "/html/body/main[1]/section[1]/div[1]/div[1]/header[1]/h1[1]"
+  }
+}

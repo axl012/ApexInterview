@@ -1,0 +1,54 @@
+{
+  "Test": {
+
+    "Browser": "CH",
+    "___Comment": "Selección de los browsers a utilizar: Chrome(CH), Firefox(FF), Edge(ED), Internet Explorer(IE), Todos(All)",
+
+    "CloseBrowserAtTheEnd": true,
+    "___Comment": "Cierra el navegador al terminar el test",
+
+    "TestVelocityInMilliseconds": 2000,
+    "___Comment": "Tiempo de retrazo entre cada acción del test"
+
+  },
+  "Page": {
+    "Url": "https://www.liverpool.com.mx/tienda/home"
+  },
+ 
+  "User": {
+    "LoginUser": "javish92@hotmail.com",
+    "LoginPassword": "Entrevista.012",
+    "CreateNewUserName": "zod0112@hotmail.com",
+    "CreateNewUserPassword": "Entrevista.012",
+    "RegisteredEmail": "axelcazares012@gmail.com",
+    "ValidFirstName": "Jane",
+    "ValidLastName1": "Doe",
+    "ValidLastName2": "Watson",
+    "InvalidEmail": "invalid@mail.",
+    "InvalidPassword": "contra"
+  },
+  "SearchProduct": {
+    "ValidProduct": "Nintendo Switch OLED",
+    "ValidPartialProduct": "Nintendo Switch",
+    "SpecialCharacterName": " !#nintendo$%&()=?¡¿+*{}[]-_.:,;<>*-+,",
+    "InvalidProduct": "tsuru volante azul 2009",
+    "ValidProduct2": "the skywalker saga",
+    "ValidProduct3": "smartphone",
+    "ValidProduct4": "smart tv"
+  },
+  "CatalogueProducts": {
+    "ValidItem": "Smart tv",
+    "Department": "electronica",
+    "Brand": "Samsung",
+    "Resolution": "4k ultra hd",
+    "ScreenSize": "40 pulgadas",
+    "ScreenTech": "OLED",
+    "Discount": "10% o mas",
+    "PriceRange1": "4000",
+    "PriceRange2": "40000",
+    "Rating": "4",
+    "Seller": "liverpool",
+    "SortOption": "Relevance"
+  }
+}
+			  
