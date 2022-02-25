@@ -48,7 +48,15 @@ namespace Entrevista.PageObjects
         public void selectBrandCheckbox()
         {
             getElement("lblVerMas").Click();
-            getElementById("brand-SAMSUNG").Click();
+            try
+            {
+                getElementById("brand-SAMSUNG").Click();
+
+            }
+            catch
+            {
+                getElementById("brand-SAMSUNG").Click();
+            }
             getElementById("variants.normalizedSize-50 pulgadas");
         }
 
@@ -69,7 +77,15 @@ namespace Entrevista.PageObjects
 
         public void selectFirstTv()
         {
-            getElement("firstTV").Click();
+            try
+            {
+                getElement("firstTV").Click();
+            }
+            catch
+            {
+                getElement("firstTV").Click();
+            }
+           // getElement("firstTV").Click();
         }
 
     }

@@ -15,7 +15,8 @@ namespace Entrevista.PageObjects
 
         public void goToLoginPage()
         {
-            getElement("ventana").Click();
+            //getElement("ventana").Click();
+            closeEmergentWindow();
             getElement("btnLogin").Click();
         }
 

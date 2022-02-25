@@ -7,7 +7,7 @@
     "CloseBrowserAtTheEnd": true,
     "___Comment": "Cierra el navegador al terminar el test",
 
-    "TestVelocityInMilliseconds": 2000,
+    "TestVelocityInMilliseconds": 2,
     "___Comment": "Tiempo de retrazo entre cada acción del test"
 
   },

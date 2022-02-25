@@ -34,7 +34,9 @@ namespace Entrevista.Resources
             TestVelocity = int.Parse(getTestInitAttribute("Test", "TestVelocityInMilliseconds"));
             TestVelocityOn = TestVelocity > 0;
         }
-        public BasePage(string jsonFile, BasePage page)//Constructor de modulos. Es utilizado por cada modulo del sistema para inicializar su archivo json correspondiente
+
+        //Constructor de modulos. Es utilizado por cada modulo del sistema para inicializar su archivo json correspondiente
+        public BasePage(string jsonFile, BasePage page)
         {
             BaseElements = JObject.Parse(File.ReadAllText(Directory.GetCurrentDirectory() + jsonFile));
             BaseDriver = page.BaseDriver;
@@ -63,7 +65,7 @@ namespace Entrevista.Resources
             IWebElement element;
             if (TestVelocityOn)
             {
-                Thread.Sleep(TestVelocity);
+                 BaseDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(TestVelocity);
             }
             By elementFindBy = (elementNameOrXpath.Substring(0, 2).Equals("//") || elementNameOrXpath.Substring(0, 2).Equals("/h")) ? By.XPath(elementNameOrXpath) : By.XPath((string)BaseElements[elementNameOrXpath]["XPath"]);
             try

@@ -21,8 +21,8 @@ namespace Entrevista.PageObjects
             }
             catch
             {
-                IWebElement btnAdd2 = getElement("btnAddToCart");
-                btnAdd2.Click();
+                IWebElement btnAdd = getElement("btnAddToCart");
+                btnAdd.Click();
             }
         }
 

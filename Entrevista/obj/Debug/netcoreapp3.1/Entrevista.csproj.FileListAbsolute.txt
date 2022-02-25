@@ -132,3 +132,4 @@ C:\Working\Entrevista\Entrevista\obj\Debug\netcoreapp3.1\Entrevista.csproj.CopyC
 C:\Working\Entrevista\Entrevista\obj\Debug\netcoreapp3.1\Entrevista.dll
 C:\Working\Entrevista\Entrevista\obj\Debug\netcoreapp3.1\Entrevista.pdb
 C:\Working\Entrevista\Entrevista\obj\Debug\netcoreapp3.1\Entrevista.genruntimeconfig.cache
+C:\Working\Entrevista\Entrevista\obj\Debug\netcoreapp3.1\Entrevista.csprojAssemblyReference.cache
